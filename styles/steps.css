@@ -1,5 +1,6 @@
 h1{
   padding-left: 40px;
+  font-family: Roboto;
 }
 .exclamation-point{
   position: absolute;
@@ -16,6 +17,7 @@ h2{
    top: 5px;
    left: 365px;
    font-weight: normal;
+   font-family: Roboto;
    }
 .first-image{
   height: 250px;
