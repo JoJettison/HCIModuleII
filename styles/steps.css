@@ -1,0 +1,75 @@
+h1{
+  padding-left: 40px;
+}
+.exclamation-point{
+  position: absolute;
+  top: 15px;
+  left: 155px;
+  height: 50px;
+}
+body{
+  background-color: #333333;
+  color: white;
+}
+h2{
+   position: absolute;
+   top: 5px;
+   left: 365px;
+   font-weight: normal;
+   }
+.first-image{
+  height: 250px;
+  padding-left: 50px;
+}
+.second-image{
+  height: 250px;
+  padding-left: 50px;
+}
+.third-image{
+  height: 250px;
+  padding-left: 50px;
+}
+.stepinstructions{
+  height: 250px;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.fourth-image{
+  height: 250px;
+  padding-left: 65px;
+}
+.fifth-image{
+  height: 250px;
+  padding-left: 50px;
+}
+  
+#nav{
+  position: relative;
+  width: 100%;
+  bottom: 0;  
+}
+
+#nav ul {
+  list-style-type: none;
+  margin: 0;
+ 
+  overflow: hidden;
+  background-color: #FFFFFF;
+}
+
+#nav li {
+  float: left;
+  font-family: Roboto;
+}
+
+#nav li a {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav li a:hover {
+  background-color: blue;
+}

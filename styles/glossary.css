@@ -1,0 +1,50 @@
+body{
+  background-color: #333;
+}
+h1{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+color: #FFFFFF;
+}
+
+h3{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 140.62%;
+color: #FFFFFF;
+}
+#nav{
+position: fixed;
+width: 100%;
+bottom: 0;  
+}
+
+#nav ul {
+list-style-type: none;
+margin: 0;
+padding: 10;
+overflow: hidden;
+background-color: #FFFFFF;
+}
+
+#nav li {
+float: left;
+font-family: Roboto;
+}
+
+#nav li a {
+display: block;
+color: #000000;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+#nav li a:hover {
+background-color: blue;
+}
